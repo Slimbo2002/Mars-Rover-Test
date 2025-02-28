@@ -18,9 +18,9 @@ namespace Mars_Rover_Technical_Test
         }
 
         //Create Rover with Starting Coordinates
-        public Rover CreateRover(int x, int y, string dir)
+        public Rover CreateRover(int x, int y, string dir, Plateau plateau)
         {
-            return new Rover(x, y, dir);
+            return new Rover(x, y, dir, plateau);
         }
 
         public void MoveRover(Rover rover, string commands)

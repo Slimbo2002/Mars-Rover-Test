@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|c:\\users\\bengi\\source\\repos\\mars rover technical test\\mars rover technical test\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|c:\\users\\bengi\\source\\repos\\mars rover technical test\\mars rover technical test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\mars rover technical test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|c:\\users\\bengi\\source\\repos\\mars rover technical test\\mars rover technical test\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\mars rover technical test\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\mars rover technical test\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|c:\\users\\bengi\\source\\repos\\mars rover technical test\\mars rover technical test\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|c:\\users\\bengi\\source\\repos\\mars rover technical test\\mars rover technical test\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C67F72C-575B-4E36-97B6-EF8664EA5617}|Mars Rover Technical Test\\Mars Rover Technical Test.csproj|solutionrelative:mars rover technical test\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Command.cs",
               "RelativeDocumentMoniker": "Mars Rover Technical Test\\Command.cs",
               "ToolTip": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Command.cs",
               "RelativeToolTip": "Mars Rover Technical Test\\Command.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T14:04:01.281Z",
               "EditorCaption": ""
@@ -56,26 +56,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Rover.cs",
               "DocumentMoniker": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Rover.cs",
               "RelativeDocumentMoniker": "Mars Rover Technical Test\\Rover.cs",
               "ToolTip": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Rover.cs",
               "RelativeToolTip": "Mars Rover Technical Test\\Rover.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:50:48.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Program.cs",
               "RelativeDocumentMoniker": "Mars Rover Technical Test\\Program.cs",
               "ToolTip": "C:\\Users\\bengi\\source\\repos\\Mars Rover Technical Test\\Mars Rover Technical Test\\Program.cs",
               "RelativeToolTip": "Mars Rover Technical Test\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T12:17:26.833Z",
               "EditorCaption": ""

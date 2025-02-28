@@ -20,7 +20,7 @@ namespace Mars_Rover_Technical_Test
             {
                 Rover rover = CreateRover(plateau, command, i+1);
 
-                command.MoveRover(rover, "RM");
+                command.MoveRover(rover, "M");
 
                 Console.WriteLine($"Rover {i+1} ended Up {rover.X}, {rover.Y}, {rover.direction}");
             }
@@ -92,7 +92,7 @@ namespace Mars_Rover_Technical_Test
                 
 
             }
-            return command.CreateRover(x, y, input[2]);
+            return command.CreateRover(x, y, input[2],plateau);
         }
     }
 
