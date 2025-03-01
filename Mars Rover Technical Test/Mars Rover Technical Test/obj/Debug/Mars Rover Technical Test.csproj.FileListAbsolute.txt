@@ -5,3 +5,10 @@ C:\Users\bengi\source\repos\Mars Rover Technical Test\Mars Rover Technical Test\
 C:\Users\bengi\source\repos\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.csproj.CoreCompileInputs.cache
 C:\Users\bengi\source\repos\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.exe
 C:\Users\bengi\source\repos\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.pdb
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.csproj.AssemblyReference.cache
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.csproj.CoreCompileInputs.cache
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.exe
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\obj\Debug\Mars Rover Technical Test.pdb
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\bin\Debug\Mars Rover Technical Test.exe.config
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\bin\Debug\Mars Rover Technical Test.exe
+D:\Users\bengi\Mars-Rover-Test\Mars Rover Technical Test\Mars Rover Technical Test\bin\Debug\Mars Rover Technical Test.pdb

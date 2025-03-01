@@ -23,6 +23,14 @@ namespace Mars_Rover_Technical_Test
             return new Rover(x, y, dir, plateau);
         }
 
+        /// <summary>
+        /// Moves rover based on input
+        /// - Recieves input from main
+        /// - Splits the input into Chars
+        /// - Cycles each input and moves rover based on input
+        /// </summary>
+        /// <param name="rover"></param>
+        /// <param name="commands"></param>
         public void MoveRover(Rover rover, string commands)
         {
             char[] temp = commands.ToCharArray();
