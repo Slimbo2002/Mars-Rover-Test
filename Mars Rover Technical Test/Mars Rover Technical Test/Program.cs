@@ -33,6 +33,8 @@ namespace Mars_Rover_Technical_Test
             {
                 Console.WriteLine($"{coords}\n");
             }
+
+            Console.Read();
         }
         #region Creation Methods
         /// <summary>
