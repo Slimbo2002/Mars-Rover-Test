@@ -55,7 +55,7 @@ namespace Mars_Rover_Technical_Test
             while (!getPlateau)
             {
                 //Get Plateau Max Values
-                Console.WriteLine("Please enter the plateau size");
+                Console.WriteLine("Please enter the plateau size e.g. 5 5");
                 userInput = Console.ReadLine().Split(' ');
 
                 //Check for the length of userInput
